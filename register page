@@ -1,0 +1,71 @@
+<doctype html>
+<html>
+<head>
+<title> :: register page ::
+</title>
+</head>
+<body>
+<form>
+first name :<input type = "text"><br>
+last name :<input type="text"><br>
+email id:<input type="text"><br> 
+gender :<input type="radio"><br>
+checkbox :<input type="checkbox"><br>
+select district:
+<select>
+<option>east godavari</option>
+<option>krishna</option>
+<option>prakasam</option>
+<option>west godavari</option>
+<select><br>
+password:<input type="password"><br>
+<input type="submit" value="register">
+</form>
+<div>
+<table border = "2">
+<tr>
+<th>s.no</th>
+<th>name of the student</th>
+<th>college name</th>
+<th>branch</th>
+</tr>
+<tr>
+<td>1</td>
+<td>sravya</td>
+<td>acet</td>
+<td>it</td>
+</tr>
+<tr>
+<td>2</td>
+<td>anu</td>
+<td>acet</td>
+<td>mech</td>
+</tr>
+<tr>
+<td>3</td>
+<td>siri</td>
+<td>acet</td>
+<td>cse</td>
+</tr>
+<tr>
+<td>4</td>
+<td>manu</td>
+<td>acet</td>
+<td>ece</td>
+</tr>
+</table>
+</div>
+<div>
+<dl>
+<dt>HTML:</dt>
+<dd>HYPER TEXT MARKUP LANGUAGE
+<dt>CSS:</dt>
+<dd>CASCADING STYLE SHEET</dd>
+</dl>
+</div>
+<footer>
+<h4>@copyrights information:sravya
+</h4>
+&#128518
+</body>
+</html>
